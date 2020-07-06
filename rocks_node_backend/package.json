@@ -1,0 +1,24 @@
+{
+  "name": "rocks_node_backend",
+  "version": "1.0.0",
+  "description": "Node backend for neighbourhood community android application MVP",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tebogokgopa/rocks_node_backend.git"
+  },
+  "keywords": [
+    "Node",
+    "Neighbourhood",
+    "Community"
+  ],
+  "author": "Tebogo Kgopa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tebogokgopa/rocks_node_backend/issues"
+  },
+  "homepage": "https://github.com/tebogokgopa/rocks_node_backend#readme"
+}

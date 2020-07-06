@@ -1,0 +1,27 @@
+{
+  "name": "rocks_backend",
+  "version": "1.0.0",
+  "description": "Rocks backend training wheels",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/tebogokgopa/rocks_bakend.git"
+  },
+  "keywords": [
+    "rocks",
+    "nodejs",
+    "community"
+  ],
+  "author": "Tebogo Kgopa",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongodb": "^3.5.9",
+    "mongoose": "^5.9.20"
+  }
+}
